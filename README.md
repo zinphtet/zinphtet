@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+## I am Zin Paing Htet
+## Frontend React Developer
 <!--
 **zinphtet/zinphtet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
